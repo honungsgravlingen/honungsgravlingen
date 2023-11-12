@@ -34,3 +34,11 @@ a {
     text-decoration: none;
     color: #333;
 }
+
+/* Target the div containing the article content */
+.article-content {
+    width: 60%; /* Adjust this value as needed */
+    margin: 0 auto; /* This centers the element */
+    text-align: left; /* Adjust if needed, e.g., to center text */
+}
+
